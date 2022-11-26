@@ -14,7 +14,9 @@ public class Demo {
 		Log.info("Button is displayed");
 
 		Log.error("Button is not displayed");
-		Log.error("Button is not working");
+		//Log.error("Button is not working");
+		Log.error("Button is not able");
+		Log.info("Button is not show or displayed");
 
 		Log.fatal("Button is missing");
 	}
